@@ -8,3 +8,9 @@ DAY 1:
 - Two Sum
 - Palindrome Number
 - Running Sum of 1D Array
+## Day 2
+- Learned Vectors
+- Learned Time Complexity
+- Solved Contains Duplicate
+- max num of words
+- max wealth
